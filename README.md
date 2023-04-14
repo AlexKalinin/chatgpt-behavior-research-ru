@@ -15,6 +15,4 @@
 
 ### Ресурсы
 
-* https://github.com/f/awesome-chatgpt-prompts
-* [ALEL google-document](https://docs.google.com/document/d/1oufQ_tSN5S23cqUqq0Lre2R-Hoe1TEZELXAvazBXD_8/edit#) 
-  * ALEL is the first ever “Prompt Framework”, it’s used to create prompts that can be used inside of new sessions with minor changes in the replies from ChatGPT.
+See this project: https://github.com/AlexKalinin/chatgpt-behavior-research#resources
