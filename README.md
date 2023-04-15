@@ -11,6 +11,8 @@
 * Изучение английского языка:
   * [ChatGPT помог выбрать название этого проекта](https://github.com/AlexKalinin/chatgpt-behavior-research-ru/issues/1)
   * [ChatGPT может помочь в транскрибировании / понимании англ. речи](https://github.com/AlexKalinin/chatgpt-behavior-research-ru/issues/2)
+* Универсальные полезные вещи
+  * [ChatGPT может помогать задавать в youtube / google правильные вопросы](https://github.com/AlexKalinin/chatgpt-behavior-research-ru/issues/3)
 
 
 ### Ресурсы
